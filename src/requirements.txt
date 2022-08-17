@@ -1,5 +1,0 @@
-cv_bridge==1.16.0
-numpy==1.17.4
-opencv_contrib_python==4.5.5.64
-rospy==1.15.14
-sensor_msgs==1.13.1
