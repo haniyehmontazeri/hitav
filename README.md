@@ -51,7 +51,7 @@ Follow these steps to set up the project locally:
    run the Main.py file from the code that you have cloned from this repository in the simulation invironment.
 
 
-4. **Performance**:: see this video
+4. **Performance**: see this video
 
    https://youtu.be/M01MMAutrsg
 
