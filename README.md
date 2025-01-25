@@ -41,7 +41,7 @@ Follow these steps to set up the project locally:
    
    https://github.com/Fira-Autonomous-Cars/FIRA-Autonomous-Cars-Simulator
 
-   ![Simulator invironment](https://github.com/username/repo-name/blob/main/car.png)
+   ![Simulator invironment](https://github.com/haniyehmontazeri/hitav/blob/main/Simulator-invironment.jpg)
 
 
    
