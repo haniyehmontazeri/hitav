@@ -38,7 +38,10 @@ Follow these steps to set up the project locally:
 2.  **Install simulator**:
    
    Follow the steps from FIRA Autonomous Cars Simulator repository:
+   
    https://github.com/Fira-Autonomous-Cars/FIRA-Autonomous-Cars-Simulator
+
+   ![Simulator invironment](https://github.com/username/repo-name/blob/main/car.png)
 
 
    
