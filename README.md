@@ -24,7 +24,8 @@ Follow these steps to set up the project locally:
 - CMake
 - ROS
 - Gazebo
-- 
+- Numpy
+- OpenCV
 
 ### Installation
 
@@ -33,3 +34,21 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/haniyehmontazeri/hitav.git
    cd hitav
+
+2.  **Install simulator**:
+   
+   Follow the steps from FIRA Autonomous Cars Simulator repository:
+   https://github.com/Fira-Autonomous-Cars/FIRA-Autonomous-Cars-Simulator
+
+
+   
+
+3. **Run the code**:
+
+   run the Main.py file from the code that you have cloned from this repository in the simulation invironment.
+
+
+4. **Performance**:: see this video
+
+   https://youtu.be/M01MMAutrsg
+
